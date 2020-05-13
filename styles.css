@@ -22,3 +22,12 @@ p.important {
 .collor {
     color: red;
 }
+.letspace{
+    letter-spacing: 2em
+}
+.wordspace{
+    word-spacing: 4em
+}
+.linspace{
+    line-height: 3em
+}
